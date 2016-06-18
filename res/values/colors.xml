@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffffff</color>
+    <color name="unfocused">#FBFBFB</color>
+    <color name="pressed">#009990</color>
+    <color name="selected">#F3F3F3</color>
+    <color name="focused">#F3F3F3</color>
+    <color name="navBackground">#009990</color>
+    <color name="navColor">#ffffff</color>
+
+</resources>
