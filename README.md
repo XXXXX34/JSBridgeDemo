@@ -18,7 +18,7 @@
          <p>
             <img src="http://7xowu9.com1.z0.glb.clouddn.com/JSBridgeDemo3.png?attname=&e=1466239723&token=Mqtioyh40Emz8mD7IlD3zO6Ygq1Ngu875mgsI78Y:gb68c_uiX5iegzMs3e6tW-QnGyw" />
         </p>
-          <h1>JS调用Javav退出Activity</h1>
+          <h1>JS调用Java退出Activity</h1>
          <p>
             <img src="http://7xowu9.com1.z0.glb.clouddn.com/JSBridgeDemo4.png?attname=&e=1466239723&token=Mqtioyh40Emz8mD7IlD3zO6Ygq1Ngu875mgsI78Y:m7iX5_V4DVYCxhF5pzCiljPgBT4" />
  </p>
