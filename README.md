@@ -3,7 +3,7 @@
 
  <h1>安装Demo</h1>
     <p>
-        <img src="http://7xowu9.com1.z0.glb.clouddn.com/%E4%B8%8B%E8%BD%BDJSBridgeDemo.png?attname=&e=1466241427&token=Mqtioyh40Emz8mD7IlD3zO6Ygq1Ngu875mgsI78Y:JP769GCLI2zptL572UTzRiUjp2o" />
+        <img src="http://7xowu9.com1.z0.glb.clouddn.com/dowJSBridgeDemo.png?attname=&e=1466242103&token=Mqtioyh40Emz8mD7IlD3zO6Ygq1Ngu875mgsI78Y:97Z9imDfB_AmVNCOvFzv0sW_AAA" />
     </p>
     
   <h1>首页</h1>
