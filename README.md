@@ -1,7 +1,11 @@
 ﻿# JSBridgeDemo
 使用WebView，Android(JsBridge) ，IOS（WebViewJavascriptBridge）开发同时开发Android和IOS版本App应用
 
-
+ <h1>安装Demo</h1>
+    <p>
+        <img src="http://7xowu9.com1.z0.glb.clouddn.com/%E4%B8%8B%E8%BD%BDJSBridgeDemo.png?attname=&e=1466241427&token=Mqtioyh40Emz8mD7IlD3zO6Ygq1Ngu875mgsI78Y:JP769GCLI2zptL572UTzRiUjp2o" />
+    </p>
+    
   <h1>首页</h1>
         <p>
             <img src="http://7xowu9.com1.z0.glb.clouddn.com/JSBridgeDemo1.png?attname=&e=1466239722&token=Mqtioyh40Emz8mD7IlD3zO6Ygq1Ngu875mgsI78Y:xLI5OvWflDrH99TrIwr17OkEfgc" />
